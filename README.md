@@ -215,11 +215,12 @@ export MASHUP_APP_PASS=your_app_password
 
 ##  Author
 
-**Name:** **Khushnoor Kaur**
-**Roll No:** **102303219**
-**Course:** **Predictive Analytics Using Statistics**
+**Name:** Khushnoor Kaur  
+**Roll No:** 102303219  
+**Course:** Predictive Analytics Using Statistics
 
 ---
+
 
 
 
