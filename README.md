@@ -187,12 +187,12 @@ export MASHUP_APP_PASS=your_app_password
 
 ### Web App Interface
 
-![Web UI](images/mashupgen.png)
+![Web UI](Images/mashupgen.png)
 
 
 ### Email Received
 
-![Email Result](images/mashupsuccessmsg.png)
+![Email Result](Images/mashupsuccessmsg.png)
 
 ---
 
@@ -220,5 +220,6 @@ export MASHUP_APP_PASS=your_app_password
 **Course:** Predictive Analytics Using Statistics
 
 ---
+
 
 
